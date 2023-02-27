@@ -1,4 +1,4 @@
-#Are You Playing Banjo?
+# Are You Playing Banjo?
 
 Create a function which answers the question "Are you playing banjo?".
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
@@ -9,7 +9,7 @@ name + " plays banjo"
 name + " does not play banjo"
 Names given are always valid strings.
 
-##Solution:
+## Solution:
 
 const areYouPlayingBanjo = (name) => {
     return name[0] === 'r' || name[0] === 'R' ? name + " plays banjo" : name + " does not play banjo"
