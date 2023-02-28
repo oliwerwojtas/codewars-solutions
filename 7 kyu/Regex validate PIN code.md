@@ -11,8 +11,4 @@ Examples (Input --> Output)
 
 ## Solution
 
-const validatePIN = (pin) => {
-  let validation = /^(\d{4}|\d{6})$/.test(pin);
-  
-  return ((pin.length === 4 || pin.length === 6) && validation)  ? true : false
-}
+![Regex validate PIN code](https://user-images.githubusercontent.com/72667760/221934194-ad47ef39-143a-4f42-9d26-494c4c961a5c.png)
