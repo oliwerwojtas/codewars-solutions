@@ -11,6 +11,4 @@ Names given are always valid strings.
 
 ## Solution:
 
-const areYouPlayingBanjo = (name) => {
-    return name[0] === 'r' || name[0] === 'R' ? name + " plays banjo" : name + " does not play banjo"
-  }
+![Are You Playing Banjo](https://user-images.githubusercontent.com/72667760/221934987-909b515e-bf15-42b6-92f3-293388899021.png)
