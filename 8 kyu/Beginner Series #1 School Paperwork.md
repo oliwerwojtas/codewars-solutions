@@ -8,6 +8,6 @@ Example:
 n= 5, m=5: 25
 n=-5, m=5:  0
 
-##
+## Solution
 
 ![Beginner Series #1 School Paperwork](https://user-images.githubusercontent.com/72667760/221939941-d2d36c79-31cb-461f-bfb5-7e44d89e435e.png)
